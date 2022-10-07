@@ -1,0 +1,7 @@
+#Cloner un repository 
+git clone https://github.com/rayan-ahamadi/git-begins.git
+#3 commandes de push 
+git add commands-git.txt 
+git commit -m "3 commandes de push" 
+git push 
+
